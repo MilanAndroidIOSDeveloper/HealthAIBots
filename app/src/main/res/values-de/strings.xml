@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <!-- banner_ad_unit_id -->
+    <!-- app_name -->
+    <string name="signIn">Anmelden</string>
+    <string name="signUp">Anmelden</string>
+    <string name="signOut">Ausloggen</string>
+    <string name="viewProfile">Profil anzeigen</string>
+    <string name="editProfile">Profil bearbeiten</string>
+    <string name="changeIcon">Icon ändern</string>
+    <string name="users">Benutzer</string>
+    <string name="voice">Stimme</string>
+    <string name="youSay">Du sagst</string>
+    <string name="speechRate">Sprachrate</string>
+    <string name="voteUp">Abstimmen</string>
+    <!-- scripts -->
+    <string name="userID">Benutzeridentifikation</string>
+    <!-- twitter -->
+    <string name="save">sparen</string>
+    <!-- name -->
+    <!-- tag media -->
+    <string name="userFlagged">Dieser Benutzer wurde markiert</string>
+    <!-- test -->
+    <string name="deviceVoice">Gerät Voice</string>
+    <string name="browse">Durchsuchen</string>
+    <string name="create">Erstellen</string>
+    <string name="chat">Chatten</string>
+    <string name="viewCreater">View Creator anzeigen</string>
+    <!-- webm -->
+    <!-- tags -->
+    <string name="websiteOptional">Webseite (optional)</string>
+    <!-- Subdomain -->
+    <string name="thisIsATest">Dies ist ein Test, der 1, 2, 3 testet</string>
+    <!-- Webm Video -->
+    <!-- Post -->
+    <string name="cancel">Stornieren</string>
+    <string name="speak">Sprechen</string>
+    <string name="userIDorEmail">Benutzer-ID (oder E-Mail)</string>
+    <!-- Unflag -->
+    <string name="voteDown">Gefällt mir nicht</string>
+    <!-- Wiktionary -->
+    <string name="play">Spielen</string>
+    <string name="select">Wählen</string>
+    <!-- Response Matching -->
+    <string name="pitch">Tonhöhe</string>
+    <!-- Response Timeout -->
+    <string name="language">Sprache</string>
+    <string name="showName">Name anzeigen</string>
+    <string name="editUser">Benutzer bearbeiten</string>
+    <!-- Forum Bot -->
+    <!-- FAQ -->
+    <!-- Forum -->
+    <!-- Live Support -->
+    <!-- Email -->
+    <!-- Emoting -->
+    <string name="last">Letzte</string>
+    <string name="languageAndVoice">Sprachstimme</string>
+    <string name="posts">Beiträge</string>
+    <string name="rate">Preis</string>
+    <string name="passwordHint">Passwort Hinweis ist (optional)</string>
+    <string name="password">Passwort</string>
+    <string name="newPassword">Neues Kennwort</string>
+    <string name="graphics">Grafik</string>
+    <string name="handsFreeSpeech">Hände frei Rede</string>
+    <!-- Import Responses -->
+    <!-- HD -->
+    <string name="botFlagged">Dieser Bot ist markiert</string>
+    <!-- Bot -->
+    <!-- Details (optional) -->
+    <!-- Details -->
+    <string name="fullName">Vollständiger Name (optional)</string>
+    <string name="emailReco">E-Mail (empfohlen)</string>
+    <!-- Bio (optional) -->
+    <string name="currentPassword">Aktuelles Passwort</string>
+    <!-- HD Video -->
+    <string name="Forums">Foren</string>
+    <string name="administrators">Administratoren</string>
+    <string name="admin">Administrator</string>
+    <string name="channels">Kanäle</string>
+    <string name="disableVideo">Video deaktivieren</string>
+    <string name="fork">Gabel</string>
+    <!-- Chat Bot Wars -->
+    <string name="flag">Flagge</string>
+    <string name="correctResponse">Richtige Antwort</string>
+    <string name="flagResponseAsOffensive">Flag-Antwort als offensiv</string>
+    <string name="changeLanguage">Sprache ändern</string>
+    <string name="changeAvatar">Avatar ändern</string>
+    <string name="flagUser">Flag Benutzer</string>
+    <!-- Domains -->
+    <!-- Bots -->
+    <string name="voiceMod">Sprachmodifikator</string>
+    <string name="micConfig">Mikrofonkonfiguration</string>
+    <string name="sayHelloSpeech">Sag hallo - Hände frei Rede</string>
+    <string name="offlineSpeech">Offline-Rede</string>
+    <string name="sayHelloGoogle">Sag hallo - Google Voice</string>
+    <!-- Debugger -->
+    <string name="micConfigurationInfo">Bitte stellen Sie sicher, dass das Mikrofon auf Ihrem Gerät funktioniert. Gehen Sie folgendermaßen vor. \n\n1- Vergewissern Sie sich, dass Sie alle Berechtigungen für BotLibre akzeptieren, insbesondere für das Mikrofon. \n\n2- Stellen Sie sicher, dass Ihr Gerät die Sprachsuche aktiviert hat. Sein ein Sprachanbieter, der benötigt wird, um die Spracherkennung zu machen, arbeitet.</string>
+    <!-- Pose -->
+    <!-- title -->
+    <!-- Forum Bot -->
+    <string name="website">Webseite</string>
+</resources>

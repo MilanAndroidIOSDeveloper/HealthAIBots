@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "567359970096",
+    "project_id": "healthaibot-2c745",
+    "storage_bucket": "healthaibot-2c745.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567359970096:android:5bf65e356d9d8a9d7086f5",
+        "android_client_info": {
+          "package_name": "org.botlibre.sdk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvrRWbP6DzJo-7AylvQM_CINPyDQAaZJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

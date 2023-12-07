@@ -1,0 +1,144 @@
+<manifest package="org.botlibre.sdk"
+    android:versionCode="1"
+    android:versionName="1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="23"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>    
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="com.android.vending.BILLING" />
+	<uses-permission android:name="android.permission.READ_INTERNAL_STORAGE" />
+    
+    <uses-permission android:name="com.android.alarm.permission.SET_ALARM" />
+    
+    <!-- Below permissions are needed for Personal Assistant app/commands -->
+    <uses-feature android:name="android.permission.CAMERA" android:required="false" />
+    <uses-feature android:name="android.permission.CALL_PHONE" android:required="false" />
+    <uses-feature android:name="android.permission.SEND_SMS" android:required="false" />
+    <uses-feature android:name="android.hardware.camera" android:required="false" />
+ <!--uses-permission android:name="android.permission.READ_INTERNAL_STORAGE" /-->
+
+    <!--
+    	This is the application manifest.
+    	To build your own application you need to choose your main activity and update its label and the app version.
+    	** you must use your own globally unique package name above, this will require you to rename the R imports in the activities to your new package **
+    	** In Android Studio select "Edit", "Find", "Replace in Path" **
+     -->
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme"
+        android:largeHeap="true"
+        android:usesCleartextTraffic="true"
+        android:enableOnBackInvokedCallback="true"
+        android:allowBackup="true" >
+
+
+        <activity
+            android:name=".activity.InitsActivity"
+            android:label="Health AI Bot"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:exported="true"
+            android:name=".activity.UserHistoryActivity"/>
+        <activity
+            android:exported="true"
+            android:name=".activity.SignupActivity"/>
+
+        <activity
+            android:exported="true"
+            android:name=".activity.ResetActivity"/>
+
+
+        <!-- meta-data android:name="com.google.android.gms.version"
+        android:value="@integer/google_play_services_version" /-->
+        
+        <!--activity android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" /-->
+        
+        <activity
+            android:name=".activity.MainActivity"
+            android:label="Santa Bot"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".activity.ChatActivity"
+            android:label="Chat"
+            android:windowSoftInputMode="stateHidden"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity.BotActivity" />
+        </activity>
+
+        <activity
+            android:name=".activity.CreateUserActivity"
+            android:label="Sign Up"
+            android:exported="true"
+            android:windowSoftInputMode="stateHidden" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity.MainActivity" />
+        </activity>
+        <activity
+            android:name=".activity.LoginActivity"
+            android:label="Sign In"
+            android:exported="true"
+            android:windowSoftInputMode="stateHidden" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity.MainActivity" />
+        </activity>
+        <activity
+            android:name=".activity.EditUserActivity"
+            android:label="Edit User"
+            android:exported="true"
+            android:windowSoftInputMode="stateHidden" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity.MainActivity" />
+        </activity>
+        <activity
+            android:name=".activity.ViewUserActivity"
+            android:label="View User"
+            android:exported="true"
+            android:windowSoftInputMode="stateHidden" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity.MainActivity" />
+        </activity>
+        <activity
+            android:name=".activity.BotActivity"
+            android:label="View Bot"
+            android:exported="true"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name=".activity.ImageActivity"
+            android:label="Image"
+            android:exported="true"
+            android:windowSoftInputMode="stateHidden" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity.MainActivity" />
+        </activity>
+         <activity 
+            android:name=".activity.MicConfiguration"
+            android:label="Microphone Configuration"
+             android:exported="true"
+            android:configChanges="keyboardHidden|orientation|screenSize">
+         </activity>
+    </application>
+
+</manifest>

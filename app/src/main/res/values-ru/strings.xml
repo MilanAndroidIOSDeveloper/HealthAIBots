@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <!-- banner_ad_unit-id -->
+    <!-- app_name -->
+    <string name="signIn">Войти в систему</string>
+    <string name="signUp">Зарегистрироваться</string>
+    <string name="signOut">Выход</string>
+    <string name="viewProfile">Просмотреть профиль</string>
+    <string name="editProfile">Редактировать профиль</string>
+    <string name="changeIcon">Иконка изменения</string>
+    <string name="users">пользователей</string>
+    <string name="voice">голос</string>
+    <string name="youSay">Ты говоришь</string>
+    <string name="speechRate">Скорость речи</string>
+    <string name="voteUp">Голосовать</string>
+    <string name="userID">Идентификатор пользователя</string>
+    <!-- twitter -->
+    <string name="save">Сохранить</string>
+    <!-- tag media -->
+    <string name="userFlagged">Этот пользователь будет отмечен</string>
+    <string name="test">Контрольная работа</string>
+    <string name="deviceVoice">Голос устройства</string>
+    <string name="browse">Просматривать</string>
+    <string name="create">Создайте</string>
+    <string name="chat">чат</string>
+    <string name="viewCreater">Просмотреть создатель</string>
+    <!-- webm -->
+    <string name="websiteOptional">Веб-сайт (необязательно)</string>
+    <!-- Subdomain -->
+    <string name="thisIsATest">Это тест, тестирование 1, 2, 3</string>
+    <string name="webmVideo">Веб-видео</string>
+    <string name="cancel">Отмена</string>
+    <string name="speak">Говорить</string>
+    <string name="userIDorEmail">Идентификатор пользователя (или адрес электронной почты)</string>
+    <string name="voteDown">Проголосовать Вниз</string>
+    <!-- wiktionary -->
+    <string name="play">Играть</string>
+    <string name="select">Выбрать</string>
+    <string name="pitch">Подача</string>
+    <string name="language">язык</string>
+    <string name="showName">Показать имя</string>
+    <string name="editUser">Редактировать пользователя</string>
+    <!-- Emoting -->
+    <string name="last">Последний</string>
+    <string name="languageAndVoice">Язык голоса</string>
+    <string name="posts">Сообщений</string>
+    <string name="rate">Ставка</string>
+    <string name="passwordHint">Подсказка для пароля (необязательно)</string>
+    <string name="password">пароль</string>
+    <string name="newPassword">новый пароль</string>
+    <!-- Mark Valid -->
+    <!-- Keep Alive -->
+    <string name="graphics">Графика</string>
+    <string name="handsFreeSpeech">Свободная речь</string>
+    <!-- HD -->
+    <string name="botFlagged">Этот бот будет отмечен</string>
+    <!-- Bot -->
+    <string name="fullName">Полное имя (необязательно)</string>
+    <string name="emailReco">Электронная почта (рекомендуется)</string>
+    <string name="bio">Bio (необязательно)</string>
+    <string name="currentPassword">текущий пароль</string>
+    <string name="hdVideo">Видео высокой четкости</string>
+    <string name="Forums">Форумы</string>
+    <string name="administrators">Администраторы</string>
+    <string name="admin">Администратор</string>
+    <string name="channels">каналы</string>
+    <string name="disableVideo">Отключить видео</string>
+    <string name="fork">вилка</string>
+    <string name="chatBotWars">Чат Bot Wars</string>
+    <string name="flag">Флаг</string>
+    <string name="correctResponse">Правильный ответ</string>
+    <string name="flagResponseAsOffensive">Отказ от флага как оскорбительный</string>
+    <string name="changeLanguage">Изменить язык</string>
+    <string name="changeAvatar">Сменить аватар</string>
+    <string name="flagUser">Пользователь Flag</string>
+    <string name="domains">Домены</string>
+    <string name="bots">Боты</string>
+    <string name="voiceMod">Модификатор голоса</string>
+    <string name="micConfig">Конфигурация микрофона</string>
+    <string name="sayHelloSpeech">Скажите Привет - Руки Свободная речь</string>
+    <string name="offlineSpeech">Не в сети</string>
+    <string name="sayHelloGoogle">Скажите привет - Google Voice</string>
+    <string name="debugger">дебаггер</string>
+    <string name="micConfigurationInfo">Убедитесь, что микрофон работает на вашем устройстве. Выполните следующие действия. \n\n1- Убедитесь, что вы принимаете все разрешения для BotLibre, особенно для микрофона. \n\n2- Убедитесь, что на вашем устройстве включен Voice Search. Его речевой провайдер, который должен сделать речевое общение, работает.</string>
+    <!-- botlibre! -->
+    <string name="website">Веб-сайт</string>
+</resources>

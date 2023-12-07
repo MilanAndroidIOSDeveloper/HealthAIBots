@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <!-- banner_ad_unit_id -->
+    <!-- botlibre -->
+    <string name="signIn">Assinar em</string>
+    <string name="signUp">Inscrever-se</string>
+    <string name="signOut">Sair</string>
+    <string name="viewProfile">Ver perfil</string>
+    <string name="editProfile">Editar Perfil</string>
+    <string name="changeIcon">Alterar Ícone</string>
+    <string name="users">Comercial</string>
+    <string name="voice">Voz</string>
+    <string name="youSay">Você diz</string>
+    <!-- avatar -->
+    <string name="speechRate">Taxa de Voz</string>
+    <string name="voteUp">Vote para cima</string>
+    <!-- scripts -->
+    <string name="userID">ID do usuário</string>
+    <!-- twitter -->
+    <string name="save">Salve</string>
+    <string name="userFlagged">Este usuário foi sinalizado</string>
+    <string name="test">Teste</string>
+    <!-- poses -->
+    <string name="deviceVoice">Voz do dispositivo</string>
+    <string name="browse">procurar</string>
+    <string name="create">Crio</string>
+    <string name="chat">Bate-papo</string>
+    <string name="viewCreater">VerCriar</string>
+    <!-- webm -->
+    <string name="websiteOptional">Website (opcional)</string>
+    <string name="thisIsATest">Este é um teste, testando 1, 2, 3</string>
+    <string name="webmVideo">Vídeo do Webm</string>
+    <!-- post -->
+    <string name="cancel">Cancelar</string>
+    <string name="speak">Falar</string>
+    <string name="userIDorEmail">ID do usuário (ou e-mail)</string>
+    <!-- unflag -->
+    <string name="voteDown">Vote para baixo</string>
+    <string name="play">Toque</string>
+    <string name="select">Selecionar</string>
+    <string name="pitch">Passo</string>
+    <!-- ping -->
+    <string name="language">Língua</string>
+    <string name="showName">Mostrar nome</string>
+    <string name="editUser">Editar usuário</string>
+    <string name="last">Último</string>
+    <!-- chatbotwars -->
+    <string name="languageAndVoice">Idioma e Voz</string>
+    <!-- scriptup -->
+    <string name="posts">Postagens</string>
+    <string name="rate">Taxa</string>
+    <string name="passwordHint">Dica de senha (opcional)</string>
+    <string name="password">Senha</string>
+    <string name="newPassword">Nova senha</string>
+    <string name="graphics">Gráficos</string>
+    <string name="handsFreeSpeech">Discurso manos libres</string>
+    <!-- HD -->
+    <string name="botFlagged">Este bot foi sinalizado</string>
+    <string name="fullName">Nome completo (opcional)</string>
+    <string name="emailReco">E-mail (recomendado)</string>
+    <string name="bio">Bio (opcional)</string>
+    <string name="currentPassword">senha atual</string>
+    <!-- fix tempalte case -->
+    <string name="hdVideo">Vídeo HD</string>
+    <string name="Forums">Fórum</string>
+    <string name="administrators">Administradores</string>
+    <!-- admin -->
+    <string name="channels">Canais</string>
+    <string name="disableVideo">Desativar vídeo</string>
+    <!-- boot -->
+    <string name="fork">Garfo</string>
+    <!-- chat bot wars -->
+    <string name="flag">Bandeira</string>
+    <string name="correctResponse">Resposta correta</string>
+    <string name="flagResponseAsOffensive">Resposta de bandeira como ofensiva</string>
+    <string name="changeLanguage">Mudar idioma</string>
+    <string name="changeAvatar">Mudar Avatar</string>
+    <!-- flaguser -->
+    <string name="domains">Domínios</string>
+    <!-- bots -->
+    <string name="voiceMod">Modificador de Voz</string>
+    <string name="micConfig">Configuração do microfone</string>
+    <string name="sayHelloSpeech">Diga Olá - Discurso</string>
+    <string name="offlineSpeech">Discurso Offline</string>
+    <string name="sayHelloGoogle">Diga Olá - Google Voice</string>
+    <!-- debugger -->
+    <string name="micConfigurationInfo">Certifique-se de que o microfone funciona no dispositivo. Siga estes passos abaixo. \n\n1- Certifique-se de que aceita todas as permissões para o BotLibre, especialmente para o Microfone. \n\n2- Certifique-se de que o seu dispositivo activou a Pesquisa por Voz. É um provedor de fala que é necessário para fazer o reconhecimento de fala funciona.</string>
+    <!-- pose -->
+    <string name="website">Local na rede Internet</string>
+    <!-- fourmbot -->
+    <!-- website -->
+</resources>

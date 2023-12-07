@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <!--banner
+	app_name-->
+    <string name="signIn">Se connecter</string>
+    <string name="signUp">S\'inscrire</string>
+    <string name="signOut">Déconnexion</string>
+    <string name="viewProfile">Voir le profil</string>
+    <string name="editProfile">Editer le profil</string>
+    <string name="changeIcon">Changer l\'icône</string>
+    <string name="users">Utilisateurs</string>
+    <!-- channelBot -->
+    <string name="voice">Voix</string>
+    <string name="youSay">Vous dites</string>
+    <!-- avatar -->
+    <string name="speechRate">Débit de parole</string>
+    <string name="voteUp">Votez</string>
+    <!-- type -->
+    <!-- scripts -->
+    <string name="userID">Identifiant d\'utilisateur</string>
+    <!-- twitter -->
+    <!-- save -->
+    <!-- tagMedia -->
+    <string name="userFlagged">Cet utilisateur a été marqué</string>
+    <string name="test">Tester</string>
+    <!-- poses -->
+    <string name="deviceVoice">Voice Device</string>
+    <string name="browse">Feuilleter</string>
+    <string name="create">Créer</string>
+    <string name="chat">Bavarder</string>
+    <string name="viewCreater">View Creator</string>
+    <!-- webm -->
+    <string name="websiteOptional">Site Internet (optionnel)</string>
+    <string name="thisIsATest">Il s\'agit d\'un test, test 1, 2, 3</string>
+    <string name="webmVideo">Vidéo Webm</string>
+    <string name="cancel">Annuler</string>
+    <string name="speak">Parler</string>
+    <string name="userIDorEmail">ID utilisateur (ou courrier électronique)</string>
+    <!-- unflag -->
+    <string name="voteDown">Voter contre</string>
+    <string name="play">Jouer</string>
+    <string name="select">Sélectionner</string>
+    <string name="pitch">Pas</string>
+    <string name="language">La langue</string>
+    <string name="showName">Afficher le nom</string>
+    <string name="editUser">Modifier l\'utilisateur</string>
+    <!-- faq -->
+    <!-- email -->
+    <string name="last">Dernier</string>
+    <!-- chatbotwar -->
+    <string name="languageAndVoice">Langue et voix</string>
+    <!-- scriptup -->
+    <string name="posts">Des postes</string>
+    <!-- scriptdown -->
+    <string name="rate">Taux</string>
+    <string name="passwordHint">Indication de mot de passe (facultatif)</string>
+    <string name="password">Mot de passe</string>
+    <string name="newPassword">Nouveau mot de passe</string>
+    <string name="graphics">Graphique</string>
+    <!-- handsfreespeech -->
+    <!-- hd -->
+    <!-- action -->
+    <string name="botFlagged">Ce bot a été marqué</string>
+    <!-- bot -->
+    <string name="fullName">Nom complet (facultatif)</string>
+    <string name="emailReco">Email (recommandé)</string>
+    <string name="bio">Bio (facultatif)</string>
+    <!-- editbot -->
+    <!-- editChannel -->
+    <string name="currentPassword">Mot de passe actuel</string>
+    <!-- Discussion Match -->
+    <string name="hdVideo">Vidéo HD</string>
+    <!-- comments -->
+    <string name="Forums">Forums</string>
+    <string name="administrators">Administrateurs</string>
+    <!-- admin -->
+    <string name="channels">Chaînes</string>
+    <string name="disableVideo">Disable Video</string>
+    <!-- boot -->
+    <string name="fork">Fourchette</string>
+    <!-- chatbotwar -->
+    <string name="flag">Drapeau</string>
+    <string name="correctResponse">Réponse correcte</string>
+    <string name="flagResponseAsOffensive">Réponse du drapeau comme offensive</string>
+    <string name="changeLanguage">Changer de langue</string>
+    <string name="changeAvatar">Changer d\'avatar</string>
+    <string name="flagUser">Flag User</string>
+    <string name="domains">Domaines</string>
+    <!-- bots -->
+    <string name="voiceMod">Modificateur de voix</string>
+    <string name="micConfig">Configuration du microphone</string>
+    <!-- sayhellospeech -->
+    <string name="offlineSpeech">Discours hors-ligne</string>
+    <!-- sayhellogoogle -->
+    <string name="debugger">Débogueur</string>
+    <string name="micConfigurationInfo">Assurez-vous que le microphone fonctionne sur votre appareil. Suivez ces étapes ci-dessous. \n\n1- Assurez-vous d\'accepter toutes les autorisations pour BotLibre, en particulier pour le microphone. \n\n2- Assurez-vous que votre appareil a activé la recherche vocale. C\'est un fournisseur de discours qui est requis pour que le rkognition de la parole fonctionne.</string>
+    <!-- pose -->
+    <string name="website">Site Internet</string>
+</resources>
